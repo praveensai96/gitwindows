@@ -1,0 +1,8 @@
+1 git config --global user.name 
+2 git config --gglobl user.email  
+3 git config --global -l 
+4 git status 
+5 git add . 
+git init 
+7 git commit -m "message" 
+git rm -rf "file_name" 
